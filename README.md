@@ -28,7 +28,7 @@ ShareBite is a **web platform** that enables:
 - Helps people access food in lesser cost   
 - Outcome → food saved from waste, money saved for buyers, goodwill earned by businesses.
 
-## ✨ Key Features
+##  Key Features
 
 - Has two interface - Donar & Receiver
 - Organised Food details( Quantity, Price, Pickup Location )
