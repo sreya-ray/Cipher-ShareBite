@@ -12,7 +12,7 @@ This hackathon project aims to bridge the gap between food donors and people in 
 **Live Demo** : [https://cipher-share-bite.vercel.app/](#)
 
 **Project Tagline**  
-Sharing Today.Sustaining Tomorrow.
+Sharing Today. Sustaining Tomorrow.
 
 ## The Problem
 
