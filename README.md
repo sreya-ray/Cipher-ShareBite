@@ -9,7 +9,7 @@ This hackathon project aims to bridge the gap between food donors and people in 
 
 **Team Name:** Cipher  
 
-**Live Demo** : [Live Demo](https://cipher-share-bite.vercel.app/)
+**Live Demo** : [ShareBite](https://cipher-share-bite.vercel.app/)
 
 **Project Tagline**  
 Sharing Today. Sustaining Tomorrow.
